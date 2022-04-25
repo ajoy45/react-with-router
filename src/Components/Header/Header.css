@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+.navitem{
+    padding-right: 10px;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
